@@ -34,5 +34,4 @@ Thank you for visiting my portfolio! I hope you enjoy exploring my work and lear
 
 ---
 
-link to the Portfolio
-https://main.ddbpxcepapetc.amplifyapp.com/
+
