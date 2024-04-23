@@ -33,3 +33,6 @@ If you wish to get in touch with me for any reason, this section provides my con
 Thank you for visiting my portfolio! I hope you enjoy exploring my work and learning more about my passion for programming and technology.
 
 ---
+
+link to the Portfolio
+https://main.ddbpxcepapetc.amplifyapp.com/
